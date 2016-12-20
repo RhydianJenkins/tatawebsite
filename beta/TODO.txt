@@ -1,0 +1,28 @@
+DAD:
+	> Download all results and gallery albums from site and give to rhydian
+	> Get me the facebook credentials, or have someone who is admin generate an app key in the developer tools
+	> Those FAQ answers are aweful and you should be ashamed. Please try again and do better - ta.
+
+Integrate a weather api (darksky.net, free upto 1000 calls a day)
+	> I have created an account and have an API key
+	> Sample API endpoint: https://api.darksky.net/forecast/b674a72095f9fc01ca454d46d46b07c8/37.8267,-122.4233
+
+Re-style tmp pages
+
+Find nice front page header font
+
+Gallery page polish
+
+Results page polish
+
+Contact us page polish
+
+Fix contact form
+	> the path for the mailer script has changed and needs to point back to the correct place
+
+New pages:
+	> about us
+	> membership (should probably be merged in with training?)
+
+Bugs:
+	> Navbar has too many elements and does not cope well when screen is medium size

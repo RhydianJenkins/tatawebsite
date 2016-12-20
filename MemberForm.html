@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN""http://www.w3.org/TR/xhtml1/DTD/XHTML1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<link rel="stylesheet" type="text/css" href="CSS/index.css" />
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+
+<title>Tata Steel Members LogIn</title>
+
+<script type="text/JavaScript" language="JavaScript">
+	function verify (MemberForm)
+		{if (MemberForm.Name.value=='')
+			{alert ('Enter your login name'); return false;}
+		if (MemberForm.Password.value=='')
+		{alert ('Please Enter Your Password'); return false;}
+		return true}
+</script>
+
+</head>
+
+<body>
+<table border="15" align="center">
+<tr><td>
+<h6 align="center">Members Log In</h6></td></tr>
+
+<tr><td>
+<h2 align="center"><i>If you are a member, please log in here.</i></h2></td></tr>
+
+<tr><td><form name="MemberForm" action="Members/register.php" method="get" onsubmit="return veryfy(this);"align="Center">
+
+Name: <input type="text" name="Name" size="20" value="Type your name here" maxlength="30" /> </td></tr>
+
+<tr><td align="Center">Password: <input type="password" name="Password" size="16" maxlength="30" /> </td></tr>
+
+ <tr><td align="Center"><input type="submit" name="button" id="button" value="Log In"></td></tr></table>
+</form>
+</body></html>

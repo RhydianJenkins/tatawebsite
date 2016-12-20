@@ -1,0 +1,16 @@
+# -FrontPage-
+
+Options None
+
+<Limit GET POST>
+order deny,allow
+deny from all
+allow from all
+</Limit>
+<Limit PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+AuthName www.corussailing.org.uk
+AuthUserFile /home/virtual/site704/fst/var/www/html/_vti_pvt/service.pwd
+AuthGroupFile /home/virtual/site704/fst/var/www/html/_vti_pvt/service.grp

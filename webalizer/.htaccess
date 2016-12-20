@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName www.corussailing.org.uk
+AuthUserFile /home/virtual/site704/fst/etc/webalizer/.passwd
+AuthGroupFile /dev/null
+Require valid-user
