@@ -2,12 +2,12 @@
     <div class="row row-eq-height">
 
         <!-- Sidebar -->
-        <div class="col-lg-3">
+        <div class="col-lg-2">
             <?php include INC_PATH . 'results_sidebar.php'; ?>
         </div>
 
         <!-- Table -->
-        <div class="col-lg-9">
+        <div class="col-lg-10">
             <?php
                 $fileFound = false;
                 if (!empty($_GET['year']) && file_exists(RESULTS_PATH . $_GET['year'])) {
@@ -30,3 +30,10 @@
 
     </div>
 </div>
+
+<!-- Add styles to the results -->
+<script>
+    $('h3').addClass('page-header');
+    $('h3').css('margin-top', '50px');
+    $('table').addClass('table-striped table-hover table-responsive');
+</script>
