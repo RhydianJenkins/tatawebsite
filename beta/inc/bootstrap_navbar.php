@@ -22,8 +22,6 @@
 				<li><a href="?page=results">Results</a></li>
 				<!-- Team Page -->
 				<li><a href="?page=team">Our Team</a></li>
-				<!-- Health and Safety -->
-				<li><a href="?page=healthandsafety">Health/Safety</a></li>
 				<!-- Training -->
 				<li><a href="?page=training">Training</a></li>
 				<!-- Gallery -->

@@ -21,6 +21,7 @@ define("INC_PATH", ROOT_PATH . "inc/");
 define("SCRIPTS_PATH", ROOT_PATH . "res/php/");
 define("RESULTS_PATH", INC_PATH . "results/");
 define("PAGES_PATH", INC_PATH . "pages/");
+define("DOCS_PATH", ROOT_PATH . "res/docs/");
 
 // autoload classes
 spl_autoload_register(function ($class) {

@@ -1,86 +1,41 @@
 <div class="container-fluid">
-    <div class="container">
-        <h1 class="page-header">Health and Safety</h1>
+    <div class="jumbotron">
+        <h1>Health and Safety</h1>
     </div>
 </div>
 
-<table align="Center"><tr><td align="Center">
-<h2>Safeguarding and Protecting Children and Young People</h2>
-Tata Steel Sailing Club considers the welfare of young people as being fundamental to our basic principles. As such, Ruth Evans, our trained Officer helps us understand our reponsibilities towards young people
-<p>Any young member of the club or visitor who wishes to talk in confidence can talk to the Welfare Officer if they are unhappy with the behavior of another club member or visitor&nbsp; towards them.
-<p>To read the clubs Young Persons Welfare Policy click on the button here: 
-</p>
-<p><a class="menu2" href="Documents/General/Young_Persons_Welfare_Officer.htm"target="_blank">Young Persons Welfare Policy</a></p>
-<p>Ruth can be contacted by email: <a title="mailto:welfare@tatasteelsailing.org.uk" href="mailto:welfare@tatasteelsailing.org.uk">welfare@tatasteelsailing.org.uk</a><br>Or Tel: 01443 227456
-<p>Please take a few minutes to read our Code of Conduct and a guide on what to do if you believe that you witness inappropriate behaviour at our club
-<p align="center"><br/><a class="menu2" href="Documents/2013/Code_of_Conduct.htm"target="_blank">Code of Conduct
-</a>
-<p align="center"><br/><a class="menu2" href="Documents/2013/Taking_Appropriate_Action.pdf"target="_blank">Taking Appropriate Action
-</a>
-<p>Ruth has put together an action plan to improve our practices and procedures
-<p>Please click on the button below to see the Action Plan:
-<p align="center"><br/><a class="menu2" href="Documents/2013/ChildActionV2.htm"target="_blank">Safeguarding and Protecting Children and Young People
-Tata Steel SC – Action Plan
-</a></p>
-<hr/>
-<h2>Health and Safety</h2></td></tr>
-<tr><td align="center">Click on this link to see the club's risk assessments:
+<div class="container-fluid">
+    <div class="container">
+        <h1 class="page-header">Safeguarding and Protecting Children and Young People</h1>
+        <p>Tata Steel Sailing Club considers the welfare of young people as being fundamental to our basic principles. As such, Ruth Evans, our trained Officer helps us understand our reponsibilities towards young people.</p>
+        <p>Any young member of the club or visitor who wishes to talk in confidence can talk to the Welfare Officer if they are unhappy with the behavior of another club member or visitor towards them.</p>
+        <p><a style="text-decoration: none;" href="<?= DOCS_PATH . 'Young_Persons_Welfare_Officer.htm'; ?>" target="_blank">Click here to read the <strong>Young Persons Welfare Policy</strong></a></p>
+        <p>Ruth can be contacted by email (welfare@tatasteelsailing.org.uk) or telephone (01443 227456)</p>
+    </div>
 
-<p align="center"><br/><a class="menu2" href="Documents/2012/Section17-Risk_Assessment-2012.pdf"target="_blank">Section17-Risk Assessment-2012</a></p>
-</td></tr></table>
-<hr/>
-<table align="Center"><tr><td align="Center" colspan="2"><h2>Environmental</h2></td></tr>
+    <div class="container">
+        <h1 class="page-header">Code of Conduct</h1>
+        <p>Please take a few minutes to read our <a style="text-decoration: none;" href="<?= DOCS_PATH . 'Code_of_Conduct.htm'; ?>" target="_blank"><strong>Code of Conduct</strong></a></p>
+    </div>
 
-<tr><td width="0" valign="top" style='width:600pt;border:none;mso-border-left-alt:  solid #7030A0 .5pt;padding:0cm 5.4pt 0.1cm 5.4pt'>
+    <div class="container">
+        <h1 class="page-header">Risk Assessment</h1>
+        <p>Please take a few minutes to read our <a style="text-decoration: none;" href="<?= DOCS_PATH . ' Risk_Assessment.pdf'; ?>" target="_blank"><strong>Risk Assessment Document</strong></a></p>
+    </div>
 
-<p align="Center"> Please click on this button to see the club's Biosecurity Policy<p align="Center"><a class="menu2" href="Documents/BioSecurityPolicy.pdf"target="_blank">Bio Security Policy</a></p>
-<h2><i>Bio-security warning:</i></h2>
-
-  <h3>Can you take a few precautions to protect the environment?</h3>
-
-<p> We have a non European shrimp at Eglwys Nunnydd Reservoir - <p align="center"><img border="0" src="Pictures/shrimp.jpg" alt="Shrimp" width="250" height="180"><p align="center" style="color:red"><i><b>Dikerogammarus villosus</b></i></p>  Although completely harmless to humans, it does have a <b>seriously adverse effect on UK freshwater life</b>, eggs etc., in fresh and brackish water.<br><br>
-
-The following measures have been introduced to minimise the likelihood of sailors and windsurfers spreading this creature to other water catchment areas:
-
-<b>Before any dinghy sailor or windsurfer takes their craft away from Tata Steel Sailing Club<b>
-<p>You must not leave any trolley or trailer in the water when launching.
-
-<p>You are required to inspect your craft for shrimp and weed etc., and thoroughly wash with the hoses provided.  Pay particular attention to washing sails, masts, and other nooks and crannies such as Topper and Laser mast holes, slots on sailboards etc.
-
-<p>Trolleys, which have been immersed in the water, need special attention to ensure hollow tubes are flushed through – pay attention to wheels and support cradles. 
-
-<p>Your craft and trolley needs to be completely drained after washing.
-
-<h3>Powerboats</h3>
-
-    Visiting powerboats and trailers need to be similarly cleaned before leaving      the site, with special attention to bilges and engine cooling systems, which also need to be flushed through.
-
-
-<!--Second column-->
-<td width=1000 valign=top style='width:700pt;background:#DDD9C3;mso-background-themecolor:  background2;mso-background-themeshade:230;padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:  normal'><o:p>&nbsp;</o:p>
-
-<h2 style="color:red"> <i>This applies to all members and visitors</i></h2>
-
-<h3>Your Sailing Gear</h3>   
-
-<p>Been on the water? You must inspect your sailing gear, including wetsuit boots, buoyancy aids, etc., and remove any shrimp.
-
-<p><span lang=EN-GB style='color:red'>WASH YOUR KIT in the showers before you leave</span> Don’t wash it at home, where the effluent might get down a rain water drain or sewer. This applies even if you can’t see any shrimp, as their young can be very small and hard to spot</p>
-
-<p><span lang=EN-GB style='color:red'>Dry your sailing clothing </span> - Ensure your gear is dry for at least five days before entering fresh or brackish water elsewhere (Environment Agency).
-
-<h3>Your Trolley</h3>
-<p>Don’t leave any trolley or trailer in the water after launching.
-
-<h3>Taking your dinghy or sailboard home or elsewhere? </h3>
-<p>Before you leave the site turn the hose taps on full blast and hose down your craft to remove shrimp, weed, mud, and gravel; pay particular attention to washing masts, and other nooks and crannies such as Topper and Laser mast holes – tip your craft on its side.
-<p>Trolleys – ensure hollow tubes are flushed through, and pay attention to wheels and dinghy supports. 
-<p>Your craft and trolley needs to be completely drained after washing.
-
-<h3>Take care of the Sprayguns and Hoses</h3>
-<p>After use, switch off the taps and hang the spray guns from the taps.
-<p>At the close of play, the hoses are best left laid out on the gravel to the front of the clubhouse; store the spray guns in the office.  If its frosty, please switch the water off from inside the clubhouse lounge, open the taps, and drain the hoses.
-
-
-<o:p></o:p></span></p></div></tr></table>
-
+    <div class="container">
+        <h1 class="page-header">Environmental</h1>
+        <h4>Bio-security warning</h4>
+        <p>We have a non European shrimp at Eglwys Nunnydd Reservoir.</p>
+        <p>Although completely harmless to humans, it does have a seriously adverse effect on UK freshwater life, eggs etc., in fresh and brackish water.</p>
+        <p>The following measures have been introduced to minimise the likelihood of sailors and windsurfers spreading this creature to other water catchment areas: Before any dinghy sailor or windsurfer takes their craft away from Tata Steel Sailing Club.</p>
+        <ul>
+            <li>You must not leave any trolley or trailer in the water when launching.</li>
+            <li>You are required to inspect your craft for shrimp and weed etc., and thoroughly wash with the hoses provided. Pay particular attention to washing sails, masts, and other nooks and crannies such as Topper and Laser mast holes, slots on sailboards etc.</li>
+            <li>Trolleys, which have been immersed in the water, need special attention to ensure hollow tubes are flushed through – pay attention to wheels and support cradles.</li>
+            <li>Your craft and trolley needs to be completely drained after washing.</li>
+            <li>You must inspect your sailing gear, including wetsuit boots, buoyancy aids, etc., and remove any shrimp</li>
+            <li>Visiting powerboats and trailers need to be similarly cleaned before leaving the site, with special attention to bilges and engine cooling systems, which also need to be flushed through.</li>
+        </ul>
+    </div>
+</div>
